@@ -40,3 +40,5 @@ public class MobileEmulation {
 	}
 
 }
+
+//mvn exec:java -e -Dexec.mainClass=com.microsoft.playwright.CLI -Dexec.args="show-trace traces/createlead.zip"
